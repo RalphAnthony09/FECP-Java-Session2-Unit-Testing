@@ -4,3 +4,4 @@
 **Project Title:** Unit Testing </br>
 **Screenshot of output:** </br>
 
+![Lab2](Lab2.png)
